@@ -1,6 +1,6 @@
 # DeepRef
 
-![DeepRef thumbnail](https://github.com/thisisindrajit/DeepRef/blob/main/assets/thumbnail.png)
+![DeepRef thumbnail image](https://github.com/thisisindrajit/DeepRef/blob/main/assets/thumbnail.png)
 
 DeepRef is an fully open-source AI-powered note-taking app that transforms your research into interactive learning experiences.
 
