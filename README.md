@@ -23,10 +23,13 @@ This comprehensive solution bridges the gap between information gathering and kn
 - React (NextJS) with TypeScript
 - TailwindCSS along with shadcn/ui
 - Kinde Auth
+- Vercel for hosting
 
 DBs that I am planning to use:
 - Convex DB (For realtime and storing notes data)
 - Xata DB (Postgres)
 
 ## References
+- [Color palette](https://colorhunt.co/palette/f7f7f7eeeeee393e46929aab)
+- [Favicon generator](https://favicon.io/favicon-converter/)
 - [NextJS documentation](https://nextjs.org/docs)

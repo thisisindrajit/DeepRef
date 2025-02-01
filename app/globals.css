@@ -67,3 +67,9 @@
     font-family: var(--font-ibm-plex-sans);
   }
 }
+
+.stroke-text {
+  color: #eeeeee;
+  text-shadow: -0.25px -0.25px 0 #929aab, 0.25px -0.25px 0 #929aab, -0.25px 0.25px 0 #929aab,
+    0.25px 0.25px 0 #929aab;
+}
