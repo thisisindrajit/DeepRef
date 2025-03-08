@@ -22,7 +22,9 @@ This comprehensive solution bridges the gap between information gathering and kn
 ## Tech Stack
 - React (NextJS) with TypeScript
 - TailwindCSS along with shadcn/ui
-- Kinde Auth
+- WorkOS for authentication
+- LlamaIndex
+- Groq/Azure AI foundry for AI models
 - Vercel for hosting
 
 DBs that I am planning to use:
