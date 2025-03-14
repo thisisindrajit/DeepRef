@@ -22,7 +22,7 @@ This comprehensive solution bridges the gap between information gathering and kn
 ## Tech Stack
 - React (NextJS) with TypeScript
 - TailwindCSS along with shadcn/ui
-- BetterAuth for authentication
+- Better-Auth for authentication
 - LlamaIndex
 - Groq/Azure AI foundry for AI models
 - Cloudflare Pages/Workers for hosting
