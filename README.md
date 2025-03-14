@@ -22,14 +22,14 @@ This comprehensive solution bridges the gap between information gathering and kn
 ## Tech Stack
 - React (NextJS) with TypeScript
 - TailwindCSS along with shadcn/ui
-- WorkOS for authentication
+- BetterAuth for authentication
 - LlamaIndex
 - Groq/Azure AI foundry for AI models
-- Vercel for hosting
+- Cloudflare Pages/Workers for hosting
 
 DBs that I am planning to use:
 - Convex DB (For realtime and storing notes data)
-- Xata DB (Postgres)
+- Xata DB (For entities like users, notes metadata etc.)
 
 ## References
 - [Color palette](https://colorhunt.co/palette/f7f7f7eeeeee393e46929aab)
