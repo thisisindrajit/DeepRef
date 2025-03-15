@@ -43,7 +43,7 @@ const RootLayout: FC<
         />
         <link rel="manifest" href="/favicons/site.webmanifest" />
       </head>
-      <body className={`${ibmPlexSans.className} antialiased p-4 xl:p-6 m-auto xl:max-w-[1440px] 2xl:max-w-[1920px]`}>
+      <body className={`${ibmPlexSans.className} antialiased p-4 m-auto xl:max-w-[1440px] 2xl:max-w-[1920px]`}>
         {children}
       </body>
     </html>
